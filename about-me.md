@@ -7,4 +7,5 @@ Email: gabriel.kiarie@dkut.ac.ke
 
 **Homepage: **
 [Website](https://kiariegabriel.github.io/)
+
 [Blog page](https://kiariegabriel.github.io/blogs.html)
