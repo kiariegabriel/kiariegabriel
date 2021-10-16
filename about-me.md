@@ -6,7 +6,7 @@ I am here to create.
 
 Email: gabriel.kiarie@dkut.ac.ke
 
-**Homepage: **
+**Homepage:**
 
 [Website](https://kiariegabriel.github.io/)
 
